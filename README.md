@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mustapha Salawu 👋
 
-<!--
-**mustyJose/mustyjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer & Technical Virtual Assistant from Nigeria.
 
-Here are some ideas to get you started:
+## About Me
+- Backend Developer using Node.js, Express.js, and MongoDB
+- Technical Virtual Assistant with remote work experience
+- Interested in APIs, backend systems, and cloud technologies
+- Open to remote opportunities and collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Git & GitHub
+- REST APIs
+- JWT Authentication
+
+## Projects
+### Digital Banking System
+Backend banking system built with Node.js, Express.js, and MongoDB.
+
+🔗 Project Link:
+https://github.com/mustyJose/Digital-Banking-System
+
+## Currently Learning
+- Backend architecture
+- Cloud technologies
+- API security
+- Scalable systems
+
+## Connect With Me
+- Email: josey7kmt@gmail.com98
