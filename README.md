@@ -31,4 +31,4 @@ https://github.com/mustyJose/Digital-Banking-System
 - Scalable systems
 
 ## Connect With Me
-- Email: josey7kmt@gmail.com98
+- Email: josey7kmt@gmail.com
